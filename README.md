@@ -1,0 +1,2 @@
+# Odoo
+Odoo test environment 
