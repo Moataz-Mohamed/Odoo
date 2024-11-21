@@ -1,11 +1,12 @@
-Prerequests for AWS DevOps :
-
-1 - Bash Script . very important
-2 - Git .   very important  ( AWS CodeCommit )
-3 - Json & Yaml . very important
-4 - familiar with Linux command line . 
-5 - fundamentals of network .
-6 - JS programming or Python or Both .
-7 - regular expresion or jq commant (bash script )
+Prerequests for AWS DevOps :,,,
+,,,
+1 - Bash Script . very important,,,
+2 - Git .   very important  ( AWS CodeCommit ),,,
+3 - Json & Yaml . very important,,,
+4 - familiar with Linux command line . ,,,
+5 - fundamentals of network .,,,
+6 - JS programming or Python or Both .,,,
+7 - regular expresion or jq commant (bash script ),,,
 8 - Jenkins : CI/CD Piplines Automation Manager ( AWS CodeBuild , CodeDeploy , CodeCommit , CodePipeline )
-9 - Terraform : Infrastructure as a Code ( IaC )
+9 - Terraform : Infrastructure as a Code ( IaC ),,,
+10 – Adding new line,,,
